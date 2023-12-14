@@ -4,7 +4,8 @@ Berikut cara menjalankan program nya melalui terminal atau command prompt
 1. Pastikan Anda Telah Menginstal Modul requests:
    Sebelum menjalankan skrip ini, pastikan bahwa Anda telah menginstal modul requests. Jika belum, instal dengan perintah
    ```cmd
-   pip install requests ```
+   pip install requests
+   ```
 
 3. Simpan Program Python:
 Simpan dalam file dengan ekstensi .py, misalnya download_script.py.
