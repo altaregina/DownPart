@@ -2,15 +2,16 @@
 
 Berikut cara menjalankan program nya melalui terminal atau command prompt
 1. Pastikan Anda Telah Menginstal Modul requests:
-   Sebelum menjalankan skrip ini, pastikan bahwa Anda telah menginstal modul requests. Jika belum, instal dengan perintah 'pip install requests'.
+   Sebelum menjalankan skrip ini, pastikan bahwa Anda telah menginstal modul requests. Jika belum, instal dengan perintah
+   ```cmd pip install requests ```
 
-2. Simpan Program Python:
+3. Simpan Program Python:
 Simpan dalam file dengan ekstensi .py, misalnya download_script.py.
 
-3. Buka Terminal atau Command Prompt:
+4. Buka Terminal atau Command Prompt:
 Buka terminal atau command prompt di direktori tempat Anda menyimpan skrip Python.
 
-4. Jalankan Program dengan Argumen:
+5. Jalankan Program dengan Argumen:
 Gunakan perintah berikut untuk menjalankan program dengan argumen yang sesuai. Gantilah <source_url> dengan URL sumber file yang ingin Anda unduh.
     ```cmd
     python download_script.py --source <source_url> --numpart <num_parts> --name <file_name>
